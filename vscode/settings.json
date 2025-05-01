@@ -1,0 +1,47 @@
+{
+    "C_Cpp.default.compilerPath": "/usr/bin/g++",
+    "terminal.integrated.defaultProfile.osx": "bash",
+    "terminal.external.linuxExec": "bash",
+    "debug.onTaskErrors": "debugAnyway",
+    "git.enableSmartCommit": true,
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "cmake.configureOnOpen": true,
+    "cmake.options.statusBarVisibility": "visible",
+    "gitlens.gitCommands.skipConfirmations": [
+      "fetch:command",
+      "stash-push:command",
+      "switch:command"
+    ],
+    "python.createEnvironment.trigger": "off",
+    "workbench.editorAssociations": {
+      "*.pyc": "default"
+    },
+    "python.defaultInterpreterPath": "/opt/homebrew/bin/python3",
+    "editor.accessibilitySupport": "off",
+    "makefile.configureOnOpen": true,
+    "githubPullRequests.createOnPublishBranch": "never",
+    "git.openRepositoryInParentFolders": "never",
+  
+    "editor.lineNumbers": "on",
+    "editor.cursorSurroundingLines": 5,
+    "editor.cursorSurroundingLinesStyle": "default",
+    "editor.find.autoFindInSelection": true,
+    "search.smartCase": true,
+    "editor.scrollBeyondLastLine": true,
+  
+    "vim.useSystemClipboard": true,
+    "vim.leader": "<space>",
+    "vim.normalModeKeyBindingsNonRecursive": [
+      {
+        "before": ["q"],
+        "commands": ["editor.action.toggleFindCaseSensitive"]
+      }
+    ],
+  
+    "workbench.colorTheme": "Gruvbox Dark Soft",
+    "git.decorations.enabled": true
+  }
