@@ -1,6 +1,5 @@
 {
-    "C_Cpp.default.compilerPath": "/usr/bin/g++",
-    "terminal.integrated.defaultProfile.osx": "bash",
+  "terminal.integrated.defaultProfile.osx": "bash",
     "terminal.external.linuxExec": "bash",
     "debug.onTaskErrors": "debugAnyway",
     "git.enableSmartCommit": true,
@@ -42,6 +41,7 @@
       }
     ],
   
-    "workbench.colorTheme": "Gruvbox Dark Soft",
-    "git.decorations.enabled": true
+    "workbench.colorTheme": "Gruvbox Dark Hard",
+    "git.decorations.enabled": true,
+    "C_Cpp.default.compilerPath": "/usr/bin/g++"
   }
