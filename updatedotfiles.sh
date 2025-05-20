@@ -7,7 +7,7 @@
 
 cp ~/.bashrc ~/dotfiles/bash/.bashrc
 cp ~/Library/Application\ Support/Code/User/settings.json ~/dotfiles/vscode/settings.json
-cp ~/vim/vimrc ~/dotfiles/vim/.vimrc
+cp ~/.vim/vimrc ~/dotfiles/vim/.vimrc
 cd ~/dotfiles
 git add .
 git commit -m "Sync latest changes"
